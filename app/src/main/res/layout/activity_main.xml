@@ -61,7 +61,7 @@
     </com.google.android.material.textfield.TextInputLayout>
 
         <Button
-            android:id="@+id/button"
+            android:id="@+id/ingresarButton"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="INGRESAR"
@@ -69,7 +69,7 @@
             android:layout_marginHorizontal="140dp"
             />
         <Button
-            android:id="@+id/button2"
+            android:id="@+id/ingresarButton2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="REGISTRARSE"
